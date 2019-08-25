@@ -3,3 +3,4 @@ testです
 hoho git commit
 変更追加
 modification to this file
+git diff
